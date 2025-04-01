@@ -30,7 +30,7 @@ def predict_news(news_text):
 
 # Test
 sample_text = """
-An unidentified source has reported that an alien spacecraft secretly landed in California last night. Authorities have allegedly covered up the incident to prevent public panic.
+Israel launched a series of airstrikes across the Gaza Strip, targeting Hamas in what is described as the heaviest assault since a ceasefire was established in January. The Israeli government stated that the attacks were a response to Hamas's refusal to release hostages and engage in ceasefire negotiations.  
 """
 
 print("Prediction:", predict_news(sample_text))
